@@ -19,8 +19,8 @@ const projects = [
       title: "Mini SOC Log Analyzer",
       description:
         "A lightweight security tool that parses simulated system login logs to detect suspicious behaviour and unusual access patterns.",
-      demo: "#",   // Netlify / hosted version
-      github: "#", // repo
+      demo: "https://mini-soc-analyzer.streamlit.app/",  
+      github: "https://github.com/MMOKAus/soc_analyzer", 
       accent: "sunset",
     }
   ];
