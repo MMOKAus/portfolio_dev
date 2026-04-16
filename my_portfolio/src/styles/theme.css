@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Inter:wght@400;500;600;700&display=swap');
+
+:root {
+  --bg: #f8f5ef;
+  --surface: #fffdf9;
+  --text: #334155;
+  --text-soft: #64748b;
+  --border: #e7e2d9;
+
+  --surf: #aeb9e8;
+  --seafoam: #95d4c4;
+  --sunset: #f2a8ba;
+
+  --surf-deep: #7d8dcb;
+  --seafoam-deep: #68b49e;
+  --sunset-deep: #dd8fa5;
+
+  --shadow: 0 12px 30px rgba(51, 65, 85, 0.08);
+  --radius-xl: 24px;
+  --radius-lg: 18px;
+  --radius-pill: 999px;
+
+  --max-width: 1120px;
+}
