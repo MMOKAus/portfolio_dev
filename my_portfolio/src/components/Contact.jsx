@@ -15,7 +15,7 @@ export default function Contact() {
             <a href="https://www.linkedin.com/in/okozlovskaya/" target="_blank" rel="noreferrer">
               LinkedIn
             </a>
-            <a href="mailto:your@email.com">
+            <a href="mailto:ledromaus@gmail.com">
               Email
             </a>
           </div>
